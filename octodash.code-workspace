@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "octo-link-tests"
+		},
+		{
+			"path": "octo-api"
+		},
+		{
+			"path": "octo-link"
+		},
+		{
+			"path": "octo-get"
+		}
+	],
+	"settings": {}
+}
